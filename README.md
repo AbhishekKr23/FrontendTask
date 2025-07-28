@@ -24,7 +24,8 @@ This is my submission for the frontend tasks using React + Vite.
 
 ## 📸 Screenshot
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3401d3a-e039-42cc-b2ab-81d14c62fd9a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d451b570-b436-47b7-93fc-e260511f6192" />
+
 
 
 ---
